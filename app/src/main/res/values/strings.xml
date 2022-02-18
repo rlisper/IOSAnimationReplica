@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IOSAnimationReplica</string>
+    <string name="action_1_overview">Wi-Fi</string>
+    <string name="action_1_status">On</string>
+</resources>
